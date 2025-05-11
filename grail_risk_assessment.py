@@ -1,1 +1,1 @@
-<your full canvas code would go here>
+# INSERT FULL STREAMLIT CODE HERE MANUALLY IF REQUIRED
